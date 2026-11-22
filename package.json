@@ -1,0 +1,27 @@
+{
+  "name": "javascript-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coal77/JavaScript-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Coal77/JavaScript-tests/issues"
+  },
+  "homepage": "https://github.com/Coal77/JavaScript-tests#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.14",
+    "jest": "^30.5.2",
+    "webpack": "^5.113.0",
+    "webpack-cli": "^7.3.1"
+  }
+}
